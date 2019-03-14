@@ -35,8 +35,8 @@ function printMap(latme, lngme) {
     method: "GET"
   }).then(function(response) {
     const id = "aa69566f";
-    var zip = response.results[0].address_components[6].short_name;
-    // var zip = "17408";
+    // var zip = response.results[0].address_components[6].short_name;
+    var zip = "19355";
     const key = "6e6269f3d39bb81c4b37878dfaaef2f6";
     queryURL =
       "https://api.data.charitynavigator.org/v2/Organizations?app_id=" +
