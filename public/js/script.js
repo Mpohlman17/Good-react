@@ -13,7 +13,7 @@ var map_search;
 var sliderInstance;
 var latme;
 var lngme;
-var API_KEY = "AIzaSyAHzPSV2jshbjI8fqnC_C4L08ffnj5EN3A";
+var API_KEY = "AIzaSyCDd9mg5blcxDthtRIGYiPaZCfCRgObEmI";
 var API_KEY_PRO = "AIzaSyCDd9mg5blcxDthtRIGYiPaZCfCRgObEmI";
 
 function arrayRemove(arr, value) {
