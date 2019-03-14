@@ -1,0 +1,48 @@
+.events-section .left-side{
+	position: absolute;
+	left: 5px;
+	top: 0px;
+	width: 100px;
+	height: 170px;
+}
+
+.events-section .right-side{
+	position: relative;
+	margin-left: 88px;
+	margin-right: 30px;
+}
+
+.events-section .right-side h4{
+	line-height: 27px;
+}
+
+
+.events-section .right-side p{
+	line-height: 22px;
+}
+
+.events-section .slide-item h5{
+	font-size: 19px;
+    font-weight: 500;
+    width: 68px;
+	height: 50px;
+	padding: 3px;
+}
+
+.couses-section {
+    padding: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

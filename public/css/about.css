@@ -1,0 +1,72 @@
+/* styling to work with the BalanceText jQuery plugin */
+.balance-text {
+    text-wrap: balance;
+    /* Apply (proposed) CSS style */
+}
+
+.page-wrapper {
+    margin: 0 auto;
+    /* text-align: center */
+}
+
+#error404 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#errorOne {
+    color: black;
+    font-weight: 900;
+
+}
+
+#errorTwo {
+    color: #24c4f4;
+    line-height: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+
+}
+
+#pageNotFound {
+    font-size: 50px;
+    padding: 55px 0 0 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+#goBack {
+    font-size: 30px;
+    height: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.error {
+    font-size: 260px;
+}
+
+.image-holder {
+    background-color: rgb(215, 244, 253);
+}
+
+i {
+    background-color: white;
+}
+
+.couses-section {
+    padding-top: 25px;
+}
+
+.volunteers-section {
+    padding-top: 25px;
+}
+
+ .about-section {
+    padding-top: 25px;
+    margin-top: 25px;
+    padding-bottom: 25px;
+} 
+

@@ -1,0 +1,35 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+nav.navbar {
+    border-radius: 25px;
+    position: sticky;
+    background-color: #24c4f4;
+    color: white;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;
+    /* 50% of your logo width */
+    display: block;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+li {
+    padding: 0 15px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    li {
+        padding: 25px;
+    }
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.page-header-title {
+    color: white;
+    font-size: 25px;
+    padding: 0 0 0 100px;
+}
+
+.charity-info-box-colored {
+    background-color: rgb(193, 235, 248);
+}
+
+.style10 {
+	border-top: 1px dotted #8c8b8b;
+	border-bottom: 1px dotted #fff;
+}
+
+#map {
+    margin: 0 auto;
+    text-align: center;
+}

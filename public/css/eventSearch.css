@@ -1,0 +1,61 @@
+.card {
+    padding: 2px;
+    margin: 5px;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.page-header-title {
+    color: white;
+    font-size: 25px;
+    padding: 0 0 0 100px;
+}
+
+.card-header {
+    font-weight: bold;
+    background-color: rgb(193, 235, 248);
+    padding: 5px;
+}
+#deed-info  {
+        /* display: inline-block; */
+        overflow: auto;        
+        height: 700px;
+        margin: 0 auto;
+        width: 75%;
+}
+
+#map {
+    height: 350px;
+    width: 650px;
+} 
+
+@media only screen and (max-width: 500px) {
+    #map {
+        height: 300px;
+        width: 400px;
+    }
+  }
+
+  #deed-info {
+    width: 96%;
+  }
+
+  @media only screen and (max-width: 400px) {
+    #map {
+        height: 275px;
+        width: 320px;
+    }
+  }
+
+/* .hideContent {
+    overflow: hidden;
+    line-height: 1em;
+    height: 2em;
+}
+
+.showContent {
+    line-height: 1em;
+    height: auto;
+}       */

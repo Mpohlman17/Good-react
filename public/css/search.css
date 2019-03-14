@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.discover__list {
+    overflow: hidden;
+}
+
+.discover__form {
+    padding: 2rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.discover__form-input {
+    margin: 4px;
+    height: 30px;
+}
+
+input, select, .btn-default {
+    margin: 0 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 3px;
+    background-color: rgb(215, 244, 253);
+    color: black;
+}
+
+.btn-default {
+    border-style: solid;
+    border-width: 2px;
+}
+
+input {
+    border-style: inset;
+}
+
+p.card-text {
+    margin: 0;
+}
+
+#deed-info {
+    margin: 0 auto;
+}
