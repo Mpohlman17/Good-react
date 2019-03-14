@@ -139,8 +139,8 @@ function getCoordinates(charityName, address, url) {
 }
 
 function printEvent(latme, lngme) {
-  var latme = 39.910095;
-  var lngme = -76.81443;
+  // var latme = 39.910095;
+  // var lngme = -76.81443;
   const token = "LTV5SOWTS6QBZF72VGDA";
   let queryURL =
     "https://www.eventbriteapi.com/v3/events/search/?location.longitude=" +
